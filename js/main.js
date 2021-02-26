@@ -10,7 +10,13 @@
     'img/DVC00049.JPG',
     'img/DVC00061.JPG',
     'img/DVC00072.JPG',
-   
+    'img/NEC_0083.JPG',
+    'img/NEC_0114.JPG',
+    'img/NEC_0117.JPG',
+    'img/NEC_0159.JPG',
+    'img/NEC_0163.JPG',
+    'img/NEC_0168.JPG',
+    'img/NEC_0877.JPG',
   ];
   let currentIndex = 0;
 
